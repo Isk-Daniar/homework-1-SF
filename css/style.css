@@ -247,24 +247,24 @@ header .intro-text {
 	margin: 15px 0 30px;
 }
 /* Menu Section */
-#restaurant-menu {
+#restaurant-menu№1 {
 	padding: 100px 0 60px 0;
 }
-#restaurant-menu img {
+#restaurant-menu№1 img {
 	width: 300px;
 	box-shadow: 15px 0 #a7c44c;
 }
-#restaurant-menu h3 {
+#restaurant-menu№1 h3 {
 	padding: 10px 0;
 	text-transform: uppercase;
 }
-#restaurant-menu .menu-section hr {
+#restaurant-menu№1 .menu-section hr {
 	margin: 0 auto;
 }
-#restaurant-menu .menu-section {
+#restaurant-menu№1 .menu-section {
 	margin: 0 20px 80px;
 }
-#restaurant-menu .menu-section-title {
+#restaurant-menu№1 .menu-section-title {
 	font-size: 32px;
 	display: block;
 	font-weight: 400;
@@ -272,21 +272,83 @@ header .intro-text {
 	margin: 20px 0;
 	text-align: center;
 }
-#restaurant-menu .menu-item {
+#restaurant-menu№1 .menu-section-title {
+	font-size: 32px;
+	display: block;
+	font-weight: 400;
+	color: #444;
+	margin: 20px 0;
+	text-align: center;
+}
+#restaurant-menu№1 .menu-item {
 	margin: 45px 0;
 	font-size: 18px;
 }
-#restaurant-menu .menu-item-name {
+#restaurant-menu№1 .menu-item-name {
 	font-weight: 400;
 	font-size: 20px;
 	color: #444;
 	margin-bottom: 10px;
 }
-#restaurant-menu .menu-item-description {
+#restaurant-menu№1 .menu-item-description {
 	font-size: 15px;
 	width: 85%;
 }
-#restaurant-menu .menu-item-price {
+#restaurant-menu№1 .menu-item-price {
+	float: right;
+	font-weight: 400;
+	color: #555;
+	margin-top: -36px;
+}
+/* Menu Section */
+#restaurant-menu№2 {
+	padding: 100px 0 60px 0;
+}
+#restaurant-menu№2 img {
+	width: 300px;
+	box-shadow: 15px 0 #a7c44c;
+}
+#restaurant-menu№2 h3 {
+	padding: 10px 0;
+	text-transform: uppercase;
+}
+#restaurant-menu№2 .menu-section hr {
+	margin: 0 auto;
+}
+#restaurant-menu№2 .menu-section {
+	margin: 0 20px 80px;
+}
+#restaurant-menu№2 .menu-section-title {
+	font-size: 32px;
+	display: block;
+	font-weight: 400;
+	color: #444;
+	margin: 20px 0;
+	text-align: center;
+}
+#restaurant-menu№2 .menu-section-title {
+	font-size: 32px;
+	display: block;
+	font-weight: 400;
+	color: #444;
+	margin: 20px 0;
+	text-align: center;
+}
+#restaurant-menu№2 .menu-item {
+	margin: 45px 0;
+	font-size: 18px;
+}
+#restaurant-menu№2 .menu-item-name {
+	font-weight: 400;
+	font-size: 20px;
+	color: #444;
+	margin-bottom: 10px;
+}
+#restaurant-menu№2 .menu-item-description {
+	font-size: 15px;
+	width: 85%;
+}
+#restaurant-menu№2 .menu-item-price {
 	float: right;
 	font-weight: 400;
 	color: #555;
